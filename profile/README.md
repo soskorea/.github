@@ -1,3 +1,3 @@
 # SOS Korea
 
-A team founded in Goyang, South Korea to develop improved safety applications and cloud systems.
+안전 애플리케이션과 클라우드 시스템을 개선하기 위해 고양, 대한민국에서 설립된 팀입니다.
